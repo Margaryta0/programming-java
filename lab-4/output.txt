@@ -1,0 +1,9 @@
+Search results for substring: "Hello"
+Input file: C:\Users\Lenovo\source\repos\programming-java\lab-4\input.txt
+Total lines in file: 6
+Matching lines found: 3
+----------------------------------------
+Line numbers:
+  1
+  3
+  6
