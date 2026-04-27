@@ -15,9 +15,7 @@ public class ArtExhibition {
     private String dateTime;
     private List<Painting> paintings;
 
-    // -------------------------------------------------------
     // INNER CLASS
-    // -------------------------------------------------------
     public class Painting {
         private String title;
         private String author;
